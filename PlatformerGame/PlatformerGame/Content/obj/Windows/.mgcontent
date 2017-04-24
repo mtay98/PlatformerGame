@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Arial.spritefont</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/hero.png</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/rock_large.png</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Level1.tmx</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Tileset.png</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Level2.tmx</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Level3.tmx</File>
+    <File>C:/Users/Main User/Documents/Visual Studio 2015/Projects/Platformer/PlatformerGame/PlatformerGame/Content/Level4.tmx</File>
+  </SourceFiles>
+</SourceFileCollection>
